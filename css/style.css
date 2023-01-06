@@ -112,7 +112,7 @@ body {
 
 .container__card {
     width: 100%;
-    padding: 1.25rem;
+    padding: 1.875rem;
     background-color: var(--WHITE);
     border-radius: 0.5rem 0.5rem 0.75rem 0.75rem;
     box-shadow: 0 0.3125rem 0.625rem var(--GRAYISH-BLUE);
