@@ -98,6 +98,7 @@ body {
 
 .container__p {
     font-size: var(--PARAGRAPH-FS);
+    font-weight: var(--FW-NORMAL);
     line-height: 1.6;
     color: var(--GRAYISH-BLUE);
 }
