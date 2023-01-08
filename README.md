@@ -13,6 +13,7 @@ This is my solution to the [Four card feature section challenge on Frontend Ment
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -46,3 +47,9 @@ Users should be able to:
 
 - Frontend Mentor - [@lamy](https://www.frontendmentor.io/profile/Lamy237)
 - Twitter - [@Lamy237](https://www.twitter.com/Lamy237)
+
+
+## Acknowledgments
+
+- Frontend Mentor - [@vcarames](https://www.frontendmentor.io/profile/vcarames)
+- GitHub repo - [Four-Card-Layout](https://github.com/vcarames/Four-Card-Layout)
